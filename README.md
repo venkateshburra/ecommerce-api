@@ -30,6 +30,8 @@ npm start
 npm run dev
 ```
 
+### 5.  API Endpoints
+
 | Method | Endpoint                 | Description                         |
 | ------ | ------------------------ | ----------------------------------- |
 | GET    | `/products`              | Fetch all products                  |
