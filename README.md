@@ -1,5 +1,18 @@
 ---
 
+#  E-commerce Backend API
+
+This is a simple backend API built using **Node.js** and **Express.js** for an e-commerce platform. It allows users to fetch all products, get a product by ID, filter by category, and add new products.
+
+---
+
+## Tech Stack
+
+- **Backend:** Node.js, Express.js
+- **Environment Variables:** Managed via `.env` + `dotenv`
+
+---
+
 ## Setup Instructions
 
 ### 1. Clone the Repository
